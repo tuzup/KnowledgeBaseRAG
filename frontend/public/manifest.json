@@ -1,0 +1,8 @@
+{
+  "short_name": "Docling",
+  "name": "Docling PDF Processor",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
