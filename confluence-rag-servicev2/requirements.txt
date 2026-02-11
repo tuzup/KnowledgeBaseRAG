@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic-settings
+docling>=2.7.0
+docling-core
